@@ -12,8 +12,3 @@ todo
 2. to do here
 3. ?
 4. goto 1
-
-* list one
-* list two
-* list three
-* list more
